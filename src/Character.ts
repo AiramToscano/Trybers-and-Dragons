@@ -1,4 +1,5 @@
 import Fighter from './Fighter/Fighter';
+import SimpleFighter from './Fighter/SimpleFighter';
 import Race from './Races/Race';
 import Archetype from './Archetypes/Archetype';
 import Energy from './Energy';
@@ -73,7 +74,7 @@ export default class Character implements Fighter {
     return this._lifePoints;
   }
 
-  attack(enemy: Fighter): void {
+  attack(enemy: SimpleFighter): void {
     enemy.receiveDamage(this._strength);
   }
 
