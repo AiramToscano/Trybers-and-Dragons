@@ -11,9 +11,8 @@ Aplicar os princípios da arquitetura SOLID e os princípios de POO em uma estru
 ---
  
 # Para utilizar o projeto :
-- `git clone git@github.com:AiramToscano/StarWars.git`
+- `git@github.com:AiramToscano/Trybers-and-Dragons.git`
 - `npm install`
-- `npm start`
 
 
 # Observações :
