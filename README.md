@@ -17,5 +17,3 @@ Aplicar os princípios da arquitetura SOLID e os princípios de POO em uma estru
 
 # Observações :
 Os testes deste projeto foram realizados por especialista da trybe, por essa razão, foram retirados desse repositório.
-
-
